@@ -15,6 +15,8 @@ Notes related to git bash
 - ```git add name.fileextension cmd to add this file to .git or to make it ready```
 - ```git commit -m "description"```
 - ```git remote add origin link of the repository created on github```
+- ```git push origin master send the file or modified file to github.```
 - ```ls shows your current location and ls stands for list is.```
+- ```ls -al to show hidden files```
 - ```cd .. returns you to the previous page or folder.```
 - ```cd foldername to go to a specified location of a folder. ```
